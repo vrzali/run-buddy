@@ -123,7 +123,8 @@ section {
     align-items: flex-start;
   background-image: url('./images/hero-bg.jpeg');
   background-size: cover;
-  background-position: center;
+  background-attachment: fixed;
+  background-position: 80%;
 }
 /* Hero Style End */
 
